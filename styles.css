@@ -1,0 +1,11 @@
+img {
+    width: 400 px;
+}
+body {
+    text-align: center;
+    font-family: "Times New Roman";
+    font-style: italic;
+    font-size: larger;
+    font-variant: small-caps;
+    font-weight: bold;
+}
